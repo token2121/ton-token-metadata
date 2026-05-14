@@ -1,0 +1,7 @@
+{
+  "name": "Tether USDT",
+  "symbol": "USDT",
+  "decimals": 6,
+  "image": "https://tether.to/images/logoCircle.svg",
+  "description": "Tether USD stablecoin on TON Testnet"
+}
