@@ -1,0 +1,7 @@
+{
+  "name": "Solana",
+  "symbol": "SOL",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/info/logo.png",
+  "description": "Solana (SOL) on TON Network"
+}

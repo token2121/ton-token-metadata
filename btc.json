@@ -1,0 +1,7 @@
+{
+  "name": "Bitcoin",
+  "symbol": "BTC",
+  "decimals": 8,
+  "image": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bitcoin/info/logo.png",
+  "description": "Bitcoin (BTC) on TON Network"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "BNB",
+  "symbol": "BNB",
+  "decimals": 8,
+  "image": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png",
+  "description": "BNB on TON Network"
+}
