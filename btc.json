@@ -2,6 +2,6 @@
   "name": "Bitcoin",
   "symbol": "BTC",
   "decimals": 8,
-  "image": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bitcoin/info/logo.png",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreih4mag7tt75x3lxxcgg6tx5wsitcdypqti3fvmdq6kyypcb5fieoy",
   "description": "Bitcoin (BTC) on TON Network"
 }
