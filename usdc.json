@@ -1,0 +1,7 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "decimals": 6,
+  "image": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg",
+  "description": "USD Coin (USDC) digital stablecoin on TON"
+}
