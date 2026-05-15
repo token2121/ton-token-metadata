@@ -1,7 +1,7 @@
 {
-  "name": "Tether USDT",
+  "name": "Tether USD",
   "symbol": "USDT",
   "decimals": 6,
-  "image": "https://tether.to/images/logoCircle.svg",
-  "description": "Tether USD stablecoin on TON Testnet"
+  "image": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
+  "description": "Tether USD stablecoin on TON"
 }
